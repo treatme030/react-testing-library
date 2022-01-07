@@ -1,0 +1,15 @@
+.wrap {
+  text-align: center;
+}
+
+.wrap input {
+  text-align: center;
+}
+
+.plus-color {
+  color: rgb(113, 204, 60);
+}
+
+.minus-color {
+  color: rgb(245, 131, 118);
+}
